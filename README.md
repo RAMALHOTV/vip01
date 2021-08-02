@@ -162,14 +162,15 @@
 <thumbnail>http://168.205.87.198/logocanais/foxchannel.png</thumbnail>
 </item>
 
+
 <item>
 <title>FX</title>
-<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/68.m3u8</link>
+<link>http://dnsl.me:80/aroldo/aroldo123/4352</link>
 <thumbnail>http://168.205.87.198/logocanais/fx.png</thumbnail>
 </item>
 <item>
 <title>SPACE</title>
-<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8</link>
+<link>http://dnsl.me:80/aroldo/aroldo123/3729</link>
 <thumbnail>http://168.205.87.198/logocanais/space.png</thumbnail>
 </item>
 <item>
@@ -240,6 +241,66 @@
 <link>https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8</link>
 <thumbnail>https://imgur.com/EAwMcTz.png</thumbnail>
 </item>
+<item>
+<title>Telecine Action HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3896</link>
+<thumbnail>https://www.liebeurl.me/logos/telecineaction.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Cult HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3898</link>
+<thumbnail>https://www.liebeurl.me/logos/telecinecult.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Fun HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3900</link>
+<thumbnail>https://www.liebeurl.me/logos/telecinefun.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Pipoca HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3902</link>
+<thumbnail>https://www.liebeurl.me/logos/telecinepipoca.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Premium HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3904</link>
+<thumbnail>http://dnsl.me:80/images/f8d2354ef0cde7800a0475f6babd211d.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Touch HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3906</link>
+<thumbnail>https://www.liebeurl.me/logos/telecinetouch.png</thumbnail>
+</item>
+
+<item>
+<title>Universal TV HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3744</link>
+<thumbnail>https://www.liebeurl.me/logos/universalchannel.png</thumbnail>
+</item>
+
+<item>
+<title>Warner Channel HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/4333</link>
+<thumbnail>https://www.liebeurl.me/logos/warner.png</thumbnail>
+</item>
+
+<item>
+<title>Star Channel HD </title>
+<link>http://dnsl.me:80/aroldo/aroldo123/64026</link>
+<thumbnail>http://dnsl.me:80/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png</thumbnail>
+</item>
+
+<item>
+<title>Space HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/3729</link>
+<thumbnail>https://www.liebeurl.me/logos/space.png</thumbnail>
+</item>
+
 
 <item>
 <title>PARA BAIXO</title>
