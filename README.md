@@ -15,11 +15,23 @@
 <link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
+
 <item>
 <title>Globo RJ SD </title>
 <link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
+<item>
+<title>Globo RPC Paranavaí HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/62813</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+</item>
+<item>
+<title>Globo SP HD</title>
+<link>http://dnsl.me:80/aroldo/aroldo123/48531</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+</item>
+
 
 <item>
 <title>SBT SD</title>
