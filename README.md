@@ -87,6 +87,12 @@
 </item>
 
 <item>
+<title>TV Pantanal MS </title>
+<link>https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/tvpantanal.png</thumbnail>
+</item>
+
+<item>
 <title>Gazeta </title>
 <link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/69.m3u8</link>
 <thumbnail>https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-470x246.png</thumbnail>
