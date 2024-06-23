@@ -23,12 +23,12 @@
 </item>
 <item>
 <title>Globo RPC Paranavaí HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/62813</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/817.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
 <item>
 <title>Globo SP HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/48531</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/511.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
 
@@ -52,7 +52,7 @@
 
 <item>
 <title>RECORD SP </title>
-<link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/999.m3u8</link>
 <thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
 </item>
 
@@ -243,7 +243,7 @@
 </item>
 <item>
 <title>Telecine Action HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/3896</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/295.m3u8</link>
 <thumbnail>https://www.liebeurl.me/logos/telecineaction.png</thumbnail>
 </item>
 
@@ -255,25 +255,25 @@
 
 <item>
 <title>Telecine Fun HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/3900</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/301.m3u8</link>
 <thumbnail>https://www.liebeurl.me/logos/telecinefun.png</thumbnail>
 </item>
 
 <item>
 <title>Telecine Pipoca HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/3902</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/304.m3u8</link>
 <thumbnail>https://www.liebeurl.me/logos/telecinepipoca.png</thumbnail>
 </item>
 
 <item>
 <title>Telecine Premium HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/3904</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/307.m3u8</link>
 <thumbnail>http://dnsl.me:80/images/f8d2354ef0cde7800a0475f6babd211d.png</thumbnail>
 </item>
 
 <item>
 <title>Telecine Touch HD</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/3906</link>
+<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/310.m3u8</link>
 <thumbnail>https://www.liebeurl.me/logos/telecinetouch.png</thumbnail>
 </item>
 
