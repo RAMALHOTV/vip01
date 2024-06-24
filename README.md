@@ -1,24 +1,24 @@
 
 <item>
 <title>Band HD</title>
-<link>http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8</link>
+<link>https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?</link>
 <thumbnail>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/band-8127413.jpg</thumbnail>
 </item>
 <item>
-<title>Band HD [ Opção 2 ]</title>
-<link>http://199.127.62.234:2082/streams/13_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<title>Band SD</title>
+<link>https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?</link>
 <thumbnail>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/band-8127413.jpg</thumbnail>
 </item>
 
 <item>
 <title>Globo RJ HD </title>
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8</link>
+<link>http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16729</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
 
 <item>
 <title>Globo RJ SD </title>
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>
+<link>https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
 <item>
@@ -26,29 +26,58 @@
 <link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/817.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
+
 <item>
 <title>Globo SP HD</title>
-<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/511.m3u8</link>
+<link>https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+</item>
+
+<item>
+<title>Globo SP SD</title>
+<link>https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 </item>
 
 
+
 <item>
 <title>SBT SD</title>
-<link>https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8</link>
+<link>https://aovivo.maissbt.com/index_7.m3u8</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</thumbnail>
 </item>
 
 <item>
 <title>SBT HD</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8</link>
+<link>https://aovivo.maissbt.com/index_19.m3u8</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</thumbnail>
 </item>
+
 <item>
-<title>SBT SBT PE</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8</link>
+<title>SBT HD</title>
+<link>https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</thumbnail>
 </item>
+
+<item>
+<title>SBT PE</title>
+<link>https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SBT PR</title>
+<link>https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>SBT PR</title>
+<link>https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</thumbnail>
+</item>
+
+
 
 <item>
 <title>RECORD SP </title>
@@ -58,27 +87,49 @@
 
 <item>
 <title>RECORD RJ HD </title>
-<link>http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8</link>
+<link>https://embedflix.net/canal/live.php?ch=8</link>
 <thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
 </item>
 
 <item>
 <title>RECORD SP  HD</title>
-<link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8</link>
+<link>https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8</link>
 <thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
 </item>
 
 <item>
-<title>RedeTV! SP</title>
-<link>http://177.20.208.58:8000/play/a03p/index.m3u8</link>
+<title>RECORD RJ HD </title>
+<link>http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31555</link>
+<thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
+</item>
+
+
+<item>
+<title>RedeTV! </title>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0 &deviceDNT=%7BTARGETOPT%7D&deviceId =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+</link>
 <thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
 </item>
 
 <item>
 <title>RedeTV! SP</title>
-<link>http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<link>https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
 </item>
+
+
+<item>
+<title>RedeTV! SP</title>
+<link>https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?</link>
+<thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
+</item>
+
+<item>
+<title>RedeTV! SP</title>
+<link>https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?</link>
+<thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
+</item>
+
 
 <item>
 <title>TV Manchete</title>
@@ -165,23 +216,23 @@
 
 <item>
 <title>FX</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/4352</link>
+<link>http://pfsv.io:80/leticia/131278/308.ts</link>
 <thumbnail>http://168.205.87.198/logocanais/fx.png</thumbnail>
 </item>
 <item>
 <title>SPACE</title>
-<link>http://dnsl.me:80/aroldo/aroldo123/3729</link>
+<link>http://45.235.0.78/SPACE-HD/index.m3u8</link>
 <thumbnail>http://168.205.87.198/logocanais/space.png</thumbnail>
 </item>
 <item>
 <title>Megapix HD</title>
-<link>http://199.127.62.234:2082/streams/182_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<link>http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31279</link>
 <thumbnail>https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png</thumbnail>
 </item>
 
 <item>
 <title>Megapix SD</title>
-<link>http://199.127.62.234:2082/streams/171_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<link>http://sp001tuncdn.ddns.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/098ad391d1e3d63d4312e1431dc3364c/43.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png</thumbnail>
 </item>
 
@@ -193,18 +244,18 @@
 
 <item>
 <title>TNT SÉRIES</title>
-<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8</link>
+<link>http://45.235.0.78/TNTSERIES-HD/index.m3u8</link>
 <thumbnail>http://168.205.87.198/logocanais/tntseries.png</thumbnail>
 </item>
 <item>
 <title>TNT</title>
-<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8</link>
+<link>https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8</link>
 <thumbnail>http://168.205.87.198/logocanais/tnt.png</thumbnail>
 </item>
 
 <item>
 <title>A&E HD</title>
-<link>https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8</link>
+<link>https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://liberador.net/media/images/AE.max-640x640.jpg</thumbnail>
 </item>
 
@@ -261,7 +312,7 @@
 
 <item>
 <title>Telecine Pipoca HD</title>
-<link>http://xp2.hostinggonemoreso10.com:2082/live/Tourobox2-KmPfe6BpKR/wKYxAmQxji/304.m3u8</link>
+<link>https://brflu.walk-tv.com/5877/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://www.liebeurl.me/logos/telecinepipoca.png</thumbnail>
 </item>
 
@@ -505,13 +556,13 @@
 
 <item>
 <title>Warner HD</title>
-<link>http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8</link>
+<link>http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8</link>
 <thumbnail>https://jornal140.com/wp-content/uploads/2021/05/Warner-tV.jpg</thumbnail>
 </item>
 
 <item>
 <title>Warner HD</title>
-<link>https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8</link>
+<link>http://148.113.160.49:14761/</link>
 <thumbnail>https://jornal140.com/wp-content/uploads/2021/05/Warner-tV.jpg</thumbnail>
 </item>
 
